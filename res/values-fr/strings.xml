@@ -22,14 +22,10 @@
  */
 -->
 <resources>
-	<string name="hello">Hello World, Sandbox!</string>
-	<string name="app_name">Sandbox</string>
-	<string name="about">About</string>
+    <string name="hello">Bonjour Monde, Sandbox !</string>
+    <string name="app_name">Sandbox</string>
+    <string name="about">À propos</string>
 
 	<!-- Strings for About dialog -->
-	<string name="about_comments">A simple sandbox for dear2dear.</string>
-	<string name="about_copyright">Copyright © 2010 pdecat</string>
-	<string name="about_website_label">Sandbox at Google Code</string>
-	<string name="about_website_url">http://code.google.com/p/dear2dear</string>
-	<string name="about_email">pdecat+d2d@gmail.com</string>
+	<string name="about_comments">Un simple bac à sable pour dear2dear.</string>
 </resources>
